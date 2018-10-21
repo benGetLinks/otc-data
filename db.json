@@ -5,73 +5,86 @@
         "id": 1,
         "name": "Fin & Insur",
         "slug": "fin-insur",
-        "headline": "Fin & Insur District",
-        "description": "Companies listed here are those who provide big data solutions or service that solve users' pains related to Finance and Insurance."
+        "headline": {
+          "title": "Fin & Insur District",
+          "description": "Companies listed here are those who provide big data solutions or service that solve users' pains related to Finance and Insurance."
+        }
       },
       {
         "id": 2,
         "name": "Ecommerce & Logis",
         "slug": "ecommerce-logis",
-        "headline": "E-commerce & Logistics District",
-        "description": "This district lists companies in the category of E-commerce and Logistic, those who make life easier with trading & transportation."
+        "headline": {
+          "title": "E-commerce & Logistics District",
+          "description": "This district lists companies in the category of E-commerce and Logistic, those who make life easier with trading & transportation."
+        }
       },
       {
         "id": 3,
         "name": "Life style & Service",
         "slug": "lifestyle-service",
-        "headline": "Lifestyle & Service District",
-        "description": "This Lifestyle & Service district lists those companies that make life easier by providing solutions for individuals or for businesses. You could find companies that provide solutions from shopping to tracking health, or from analyzing your business data to help you sharpen your tech products."
+        "headline": {
+          "title": "Lifestyle & Service District",
+          "description": "This Lifestyle & Service district lists those companies that make life easier by providing solutions for individuals or for businesses. You could find companies that provide solutions from shopping to tracking health, or from analyzing your business data to help you sharpen your tech products."
+        }
       },
       {
         "id": 4,
         "name": "Entertainment",
         "slug": "entertainment",
-        "headline": "Entertainment District",
-        "description": "Entertainment district lists companies that bring joy to their customers via their company products/service. It could be ranging from a game studio to social network, or from booking concert ticket to bar&club membership products."
+        "headline": {
+          "title": "Entertainment District",
+          "description": "Entertainment district lists companies that bring joy to their customers via their company products/service. It could be ranging from a game studio to social network, or from booking concert ticket to bar&club membership products."
+        }
       },
       {
         "id": 5,
         "name": "Food & Travel",
         "slug": "food-travel",
-        "Headline": "Food & Travel District",
-        "description": "This Food & Travel district is presents companies that make dining and traveling experiences faster and easier than ever, from online booking service to recommending new and exciting dining, traveling, and accommodating experience."
+        "Headline": {
+          "title": "Food & Travel District",
+          "description": "This Food & Travel district is presents companies that make dining and traveling experiences faster and easier than ever, from online booking service to recommending new and exciting dining, traveling, and accommodating experience."
+        }
       },
       {
         "id": 6,
         "name": "Digital Agency",
         "slug": "digital-agency",
-        "headline": "Digital Agency District",
-        "description": "Digital Agency is the company that specialize in online and social media strategy. These company have in depth understanding of digital world and behavior of the users, and also include \"Software House\" that are expert in software and are ready for advice and service to the customer interested in creating websites and mobile applications"
+        "headline": {
+          "title": "Digital Agency District",
+          "description": "Digital Agency is the company that specialize in online and social media strategy. These company have in depth understanding of digital world and behavior of the users, and also include \"Software House\" that are expert in software and are ready for advice and service to the customer interested in creating websites and mobile applications"
+        }
       },
       {
         "id": 7,
         "name": "Startup Enhancer",
         "slug": "startup-enchancer",
-        "headline": "Startup Enhancer District",
-        "description": "Startup enhancer group consists of:",
-        "listItems":
-          [ 
-            {
-              "title": "Accelerator",
-              "content": "Corporate & Accelerator & Venture Capital, Company or Funding Company that helps in the startup industry"
-            },
-            {
-              "title": "Media & Association",
-              "content": "Communication and community supporting the StartUp Industry"
-            },
-            {
-              "title": "Co-working space",
-              "content": "Working Space for startup and freelance that doesn't have the office yet."
-            }
-            
-          ]
+        "headline": {
+          "title": "Startup Enhancer District",
+          "description": "Startup enhancer group consists of:",
+          "listItems":
+            [ 
+              {
+                "title": "Accelerator",
+                "content": "Corporate & Accelerator & Venture Capital, Company or Funding Company that helps in the startup industry"
+              },
+              {
+                "title": "Media & Association",
+                "content": "Communication and community supporting the StartUp Industry"
+              },
+              {
+                "title": "Co-working space",
+                "content": "Working Space for startup and freelance that doesn't have the office yet."
+              }
+              
+            ]
+        }
       },
       {
         "id": 16,
         "name": "Library",
         "slug": "library",
-        "title": "Library District",
-        "sections":
+        "content":
           [
             {
               "title": "What is Startup",
