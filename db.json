@@ -97,6 +97,7 @@
         "content": {
           "sections": [
             {
+              "id": "section_01",
               "title": "What is Startup",
               "subSections": [
                 {
@@ -123,59 +124,60 @@
               ]
             },
             {
+              "id": "section_02",
               "title": "Startup Journey",
               "subSections": [
                 {
+                  "id": "subsection_01",
                   "title": "Find an Idea",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey1.png",
                   "video": {
-                    "id": "section_video_01",
                     "videoUrl": "https://youtu.be/yyJcJrbPqlY",
                     "youtubeCode": "yyJcJrbPqlY"
                   }
                 },
                 {
+                  "id": "subsection_02",
                   "title": "Prototyping",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey2.png",
                   "video": {
-                    "id": "section_video_02",
                     "videoUrl": "https://youtu.be/JMjozqJS44M",
                     "youtubeCode": "JMjozqJS44M"
                   }
                   
                 },
                 {
+                  "id": "subsection_03",
                   "title": "Find Team",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey3.png",
                   "video": {
-                    "id": "section_video_03",
                     "videoUrl": "https://youtu.be/CVfnkM44Urs",
                     "youtubeCode": "CVfnkM44Urs"
                   }
                 },
                 {
+                  "id": "subsection_04",
                   "title": "Look for Funding",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey4.png",
                   "video": {
-                    "id": "section_video_04",
                     "videoUrl": "https://youtu.be/EKEEx_gOtp0",
                     "youtubeCode": "EKEEx_gOtp0"
                   }
                 },
                 {
+                  "id": "subsection_05",
                   "title": "Grow User",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey5.png",
                   "video": {
-                    "id": "section_video_05",
                     "videoUrl": "https://youtu.be/AaMqCWOfA1o",
                     "youtubeCode": "AaMqCWOfA1o"
                   }
                 },
                 {
+                  "id": "subsection_06",
                   "title": "Exit",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey6.png",
                   "video": {
-                    "id": "section_video_06",
                     "videoUrl": "https://youtu.be/2c1od68RiDU",
                     "youtubeCode": "2c1od68RiDU"
                   }
