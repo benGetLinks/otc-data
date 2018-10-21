@@ -103,22 +103,22 @@
                 {
                   "video": {
                     "id": "section_video_01",
-                    "videoUrl": "https://youtu.be/GD0nodytYpE",
-                    "youtubeCode": "GD0nodytYpE"
+                    "url": "https://youtu.be/GD0nodytYpE",
+                    "youtube_code": "GD0nodytYpE"
                   }
                 },
                 {
                   "video": {
                     "id": "section_video_02",
-                    "videoUrl": "https://youtu.be/RZEJvWVRjqk",
-                    "youtubeCode": "RZEJvWVRjqk"
+                    "url": "https://youtu.be/RZEJvWVRjqk",
+                    "youtube_code": "RZEJvWVRjqk"
                   }
                 },
                 {
                   "video": {
                     "id": "section_video_03",
-                    "videoUrl": "https://youtu.be/l8e1iwYTg3w",
-                    "youtubeCode": "l8e1iwYTg3w"
+                    "url": "https://youtu.be/l8e1iwYTg3w",
+                    "youtube_code": "l8e1iwYTg3w"
                   }
                 }
               ]
@@ -132,8 +132,8 @@
                   "title": "Find an Idea",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey1.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/yyJcJrbPqlY",
-                    "youtubeCode": "yyJcJrbPqlY"
+                    "url": "https://youtu.be/yyJcJrbPqlY",
+                    "youtube_code": "yyJcJrbPqlY"
                   }
                 },
                 {
@@ -141,8 +141,8 @@
                   "title": "Prototyping",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey2.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/JMjozqJS44M",
-                    "youtubeCode": "JMjozqJS44M"
+                    "url": "https://youtu.be/JMjozqJS44M",
+                    "youtube_code": "JMjozqJS44M"
                   }
                   
                 },
@@ -151,8 +151,8 @@
                   "title": "Find Team",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey3.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/CVfnkM44Urs",
-                    "youtubeCode": "CVfnkM44Urs"
+                    "url": "https://youtu.be/CVfnkM44Urs",
+                    "youtube_code": "CVfnkM44Urs"
                   }
                 },
                 {
@@ -160,8 +160,8 @@
                   "title": "Look for Funding",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey4.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/EKEEx_gOtp0",
-                    "youtubeCode": "EKEEx_gOtp0"
+                    "url": "https://youtu.be/EKEEx_gOtp0",
+                    "youtube_code": "EKEEx_gOtp0"
                   }
                 },
                 {
@@ -169,8 +169,8 @@
                   "title": "Grow User",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey5.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/AaMqCWOfA1o",
-                    "youtubeCode": "AaMqCWOfA1o"
+                    "url": "https://youtu.be/AaMqCWOfA1o",
+                    "youtube_code": "AaMqCWOfA1o"
                   }
                 },
                 {
@@ -178,8 +178,8 @@
                   "title": "Exit",
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey6.png",
                   "video": {
-                    "videoUrl": "https://youtu.be/2c1od68RiDU",
-                    "youtubeCode": "2c1od68RiDU"
+                    "url": "https://youtu.be/2c1od68RiDU",
+                    "youtube_code": "2c1od68RiDU"
                   }
                 }
               ]
