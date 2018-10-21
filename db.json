@@ -65,18 +65,20 @@
           "listItems":
             [ 
               {
+                "id": 1,
                 "title": "Accelerator",
                 "content": "Corporate & Accelerator & Venture Capital, Company or Funding Company that helps in the startup industry"
               },
               {
+                "id": 2,
                 "title": "Media & Association",
                 "content": "Communication and community supporting the StartUp Industry"
               },
               {
+                "id": 3,
                 "title": "Co-working space",
                 "content": "Working Space for startup and freelance that doesn't have the office yet."
               }
-              
             ]
         }
       },
