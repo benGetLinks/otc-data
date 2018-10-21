@@ -41,7 +41,7 @@
         "id": 5,
         "name": "Food & Travel",
         "slug": "food-travel",
-        "Headline": {
+        "headline": {
           "title": "Food & Travel District",
           "description": "This Food & Travel district is presents companies that make dining and traveling experiences faster and easier than ever, from online booking service to recommending new and exciting dining, traveling, and accommodating experience."
         }
