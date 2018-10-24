@@ -136,7 +136,9 @@
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey1.png",
                   "video": {
                     "url": "https://youtu.be/yyJcJrbPqlY",
-                    "youtube_code": "yyJcJrbPqlY",
+                    "youtube_code": "yyJcJrbPqlY"
+                  },
+                  "videoCaption": {
                     "title": "50 Groundbreaking Startup Ideas - Video Compilation",
                     "titleAuthor": "Tim Finnigan"
                   }
@@ -148,7 +150,9 @@
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey2.png",
                   "video": {
                     "url": "https://youtu.be/JMjozqJS44M",
-                    "youtube_code": "JMjozqJS44M",
+                    "youtube_code": "JMjozqJS44M"
+                  },
+                  "videoCaption": {
                     "title": "Rapid Prototyping 1 of 3: Sketching & Paper Prototyping",
                     "titleAuthor":"Google for Entrepreneurs"
                   }
@@ -160,7 +164,9 @@
                   "image": "https://s3-ap-southeast-1.amazonaws.com/bmf51hlne8i3k417oaggrd1nv1a68h7h/online_tech_city/asset/live_steam/startup_journey3.png",
                   "video": {
                     "url": "https://youtu.be/CVfnkM44Urs",
-                    "youtube_code": "CVfnkM44Urs",
+                    "youtube_code": "CVfnkM44Urs"
+                  },
+                  "videoCaption": {
                     "title": "Lecture 2 - Team and Execution (Sam Altman)",
                     "titleAuthor": "How to Start a Startup"
                   }
@@ -173,6 +179,8 @@
                   "video": {
                     "url": "https://youtu.be/EKEEx_gOtp0",
                     "youtube_code": "EKEEx_gOtp0",
+                  },
+                  "videoCaption": {
                     "title": "How To Fund a Startup",
                     "titleAuthor": "Minute MBA by OnlineMBA.com"
                   }
@@ -185,7 +193,9 @@
                   "video": {
                     "url": "https://youtu.be/AaMqCWOfA1o",
                     "youtube_code": "AaMqCWOfA1o",
-                    "title": "3 Growth Hacks: The Secrets to Driving Massive user Growth. Josh Elman, Greylock",
+                  },
+                  "videoCaption": {
+                    "title": "Driving Massive user Growth. Josh Elman, Greylock",
                     "titleAuthor": "Grow Conference"
                   }
                 },
@@ -197,6 +207,8 @@
                   "video": {
                     "url": "https://youtu.be/2c1od68RiDU",
                     "youtube_code": "2c1od68RiDU",
+                  },
+                  "videoCaption": {
                     "title":"The Alibaba I.P.O., Explained | The New York Times",
                     "titleAuthor": "The New York Times"
                   }
